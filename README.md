@@ -1,5 +1,5 @@
 ## angular-boilerplate
-A standard Angular Boilerplate based on [Best Practice Recommendations for Angular App Structure](https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub).
+A standard Angular Boilerplate following [Best Practice Recommendations for Angular App Structure](https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub).
 
 ## What is included?
 - Bootstrap 3
